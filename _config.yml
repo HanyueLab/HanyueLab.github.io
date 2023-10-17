@@ -12,6 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Hanyue Zhang"
 description:	       "I am a cuteness dealer, a mystic, a concept artist who can envision a dark but lovely world for you."
+author:              
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
